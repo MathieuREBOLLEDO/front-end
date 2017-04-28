@@ -5,5 +5,4 @@
  - Chloé Simon
  - Marc Resenterra	
  - Mathieu Rebolledo	 
- - Boris Viresolvy.
-sdnqsdhq
+ - Boris Viresolvy
